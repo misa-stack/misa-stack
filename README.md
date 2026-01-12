@@ -21,7 +21,7 @@
 ### 🛠 TECH_STACK.DLL
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | `C++`, `C#`, `Python`, `Bash` |
+| **Languages** | `C++`, `C#`,  `Bash` |
 | **Cybersecurity** | `Linux Hardening`, `GDB`, `Nmap`, `Wireshark` |
 | **DevOps/OS** | `Arch Linux`, `Git`, `Docker`, `TailwindCSS` |
 
