@@ -25,6 +25,31 @@
 | **Cybersecurity** | `Linux Hardening`, `GDB`, `Nmap`, `Wireshark` |
 | **DevOps/OS** | `Arch Linux`, `Git`, `Docker`, `TailwindCSS` |
 
+## 🌐 TECHNICAL_OVERVIEW.SH
+
+### 🛠 LANGUAGES & TOOLS
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+### 📈 CURRENT_METRICS
+
+
+---
+
+### 📂 LOG_DATA: Proficiency Levels
+- **[██████████] 95%** : **Low-Level Development (C++)** - *Memory management, SIMD/AVX2 optimization, SDL2 graphics.*
+- **[████████░░] 80%** : **Application Logic (C#)**
+  - *Backend services, desktop utility tools.*
+- **[███████░░░] 70%** : **Security & Scripting (Bash/Python)**
+  - *Automated hardening scripts, network analysis tools.*
+- **[██████░░░░] 60%** : **Frontend Engineering (Tailwind/JS)**
+  - *High-end UI design for project portfolios.*
+
 ---
 
 ### 📊 SYSTEM_STATS
