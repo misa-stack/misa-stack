@@ -38,6 +38,10 @@
 
 ### 📈 CURRENT_METRICS
 
+### 📊 LANGUAGE_DIAGNOSTICS
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=6366f1&text_color=e4e4e7&langs_count=8)
+
+> **Note:** These metrics are calculated in real-time based on the repository byte-count of my public projects.
 
 ---
 
