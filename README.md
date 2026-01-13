@@ -29,5 +29,5 @@
 
 ### 📡 ESTABLISH_CONNECTION
 - 📸 [Instagram](https://instagram.com/mich.aaa.l)
-- 🌐 [Portfolio Website](michal-dev.netlify.app)
-- 📧 echo "misamichal.k@gmail.com" | base64
+- 🌐 [Portfolio Website](https://michal-dev.netlify.app)
+- 📧 misamichal.k@gmail.com
