@@ -29,5 +29,5 @@
 
 ### 📡 ESTABLISH_CONNECTION
 - 📸 [Instagram](https://instagram.com/mich.aaa.l)
-- 🌐 [Portfolio Website](https://michal-dev.netlify.app)
+- 🌐 [Portfolio Website](https://misa.is-a.dev)
 - 📧 misamichal.k@gmail.com
